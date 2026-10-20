@@ -2,8 +2,8 @@
 
 Sistem Pengelolaan Inventaris Barang Jurusan, dikerjakan sebagai tugas Praktikum Pemrograman Web.
 
-- **Nama**: [Nama Lengkap]
-- **NIM**: [NIM]
+- **Nama**: M Wildan Rafi Amri
+- **NIM**: 062530801586
 - **Program Studi**: D3 Manajemen Informatika, Politeknik Negeri Sriwijaya
 - **Dosen Pengampu**: Agus Setiawan, M.Kom.
 
